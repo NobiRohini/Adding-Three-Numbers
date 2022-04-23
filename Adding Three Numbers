@@ -1,0 +1,15 @@
+#include<stdio.h>
+int(calculate_3numbers)
+ int main()
+{
+	printf("enter the values a,b,c");
+	printf("%d%d%d",&a,&b,&c);
+	return 0;
+}
+int(calculate_a,b,c)
+{
+	a=10;
+	b=20;
+	c=40;
+	printf("a+b+c")
+}
